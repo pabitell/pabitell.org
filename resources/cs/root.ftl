@@ -38,3 +38,8 @@ doggie_and_kitie-cake-description =
 doggie_and_kitie-doll-title = Jak našli panenku, která tence plakala
 doggie_and_kitie-doll-description = Jak pejsek a kočička našli panenku, která tence plakala a rozhodli se, že se o ni budou starat.
 
+doggie_and_kitie-pants-title = Jak si pejsek roztrhl kaťata
+doggie_and_kitie-pants-description =
+    Pejsek si v neděli na procházce roztrhl kaťata
+    a pak pejsek s kočičkou hledali způsob jak je zašít,
+    aby pejsek nedělal ostudu.

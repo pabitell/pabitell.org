@@ -40,6 +40,13 @@ lazy_static! {
                     img_url: "images/doggie_and_kitie-doll.svg".to_owned(),
                     target_url: "/doggie_and_kitie/doll/".to_owned(),
                 },
+                Chapter {
+                    name: "pants".to_owned(),
+                    title_slug: "doggie_and_kitie-pants-title".to_owned(),
+                    description_slug: "doggie_and_kitie-pants-description".to_owned(),
+                    img_url: "images/doggie_and_kitie-pants.svg".to_owned(),
+                    target_url: "/doggie_and_kitie/pants/".to_owned(),
+                },
             ],
         }]
     };

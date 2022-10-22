@@ -38,3 +38,9 @@ doggie_and_kitie-doll-title = How they found a doll, which silently wept
 doggie_and_kitie-doll-description = 
     Doggie and kitie found a doll, which silently wept, so they decidet that they'll
     take care of her.
+
+doggie_and_kitie-pants-title = How doggie ripped his pants.
+doggie_and_kitie-pants-description =
+    On Sunday doggie and kitie went for a walk and doggie ripped his pants.
+    Afterwards doggie and kitie were finding a way to sew it,
+    so that doggie did feel ashamed.
