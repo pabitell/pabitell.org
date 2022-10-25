@@ -54,7 +54,7 @@ pub fn BookItem<'a, G: Html>(ctx: Scope<'a>, props: BookItemProps<'a>) -> View<G
                 div(class="media") {
                     div(class="media-left") {
                         figure(class="image is-48x48") {
-                            img(src="images/book.svg",alt="Backpack")
+                            img(src="/images/book.svg",alt="Backpack")
                         }
                     }
                     div(class="media-content") {
